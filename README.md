@@ -122,10 +122,6 @@ See `data/README.md` for more details.
 
 ## 👤 Author
 Omar Husain 100491847
+
 CSCI 4050U - Machine Learning  
 Ontario Tech University
-
-## 📄 License
-
-MIT License
-
