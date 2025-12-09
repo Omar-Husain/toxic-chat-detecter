@@ -121,11 +121,11 @@ See `data/README.md` for more details.
 - Build an API for game integration
 
 ## 👤 Author
-
-**[Your Name]**  
+Omar Husain 100491847
 CSCI 4050U - Machine Learning  
 Ontario Tech University
 
 ## 📄 License
 
 MIT License
+
