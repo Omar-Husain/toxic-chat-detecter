@@ -1,0 +1,6 @@
+{
+  "vocab_size": 95,
+  "embedding_dim": 64,
+  "hidden_dim": 32,
+  "max_length": 50
+}
