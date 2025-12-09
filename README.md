@@ -21,11 +21,14 @@ cd toxic-chat-detector
 pip install -r requirements.txt
 ```
 
-### 2. Train the Model
+### 2. Train the Models
 
 ```bash
+# Train baseline model (TF-IDF + Logistic Regression)
 python src/train_baseline.py --csv data/gaming_toxic.csv
-```
+
+# Train neural network (PyTorch)
+python src/train_torch.py --csv data/gaming_toxic.csv
 
 ### 3. Run the Web App
 
@@ -125,3 +128,4 @@ Omar Husain 100491847
 
 CSCI 4050U - Machine Learning  
 Ontario Tech University
+
